@@ -8,8 +8,8 @@ function App() {
     <Router>
       <div>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/blackjack" element={<Blackjack />} />
+          <Route path="/tutoring-react" element={<Home />} />
+          <Route path="/tutoring-react/blackjack" element={<Blackjack />} />
         </Routes>
       </div>
     </Router>
