@@ -2,7 +2,7 @@
   "name": "tutoring-react-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bradley121901.github.io/tutoring-react",
+  "homepage": "https://bradley121901.github.io/tutoring-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
