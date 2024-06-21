@@ -1,1 +1,1 @@
-This is a sample portfolio site for tutoring.
+This is a sample portfolio site for lessons.
