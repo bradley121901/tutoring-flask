@@ -7,9 +7,9 @@ function App() {
   return (
     <Router>
       <div>
-        <Routes>
-          <Route path="/tutoring-react" element={<Home />} />
-          <Route path="/tutoring-react/blackjack" element={<Blackjack />} />
+        <Routes basename="/tutoring-react">
+          <Route path="/" element={<Home />} />
+          <Route path="/blackjack" element={<Blackjack />} />
         </Routes>
       </div>
     </Router>
