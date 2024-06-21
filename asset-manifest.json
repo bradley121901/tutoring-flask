@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tutoring-react/static/css/main.2cfea50a.css",
-    "main.js": "/tutoring-react/static/js/main.5d98b238.js",
+    "main.js": "/tutoring-react/static/js/main.a4231799.js",
     "static/js/453.f2c54b71.chunk.js": "/tutoring-react/static/js/453.f2c54b71.chunk.js",
     "index.html": "/tutoring-react/index.html",
     "main.2cfea50a.css.map": "/tutoring-react/static/css/main.2cfea50a.css.map",
-    "main.5d98b238.js.map": "/tutoring-react/static/js/main.5d98b238.js.map",
+    "main.a4231799.js.map": "/tutoring-react/static/js/main.a4231799.js.map",
     "453.f2c54b71.chunk.js.map": "/tutoring-react/static/js/453.f2c54b71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cfea50a.css",
-    "static/js/main.5d98b238.js"
+    "static/js/main.a4231799.js"
   ]
 }
